@@ -1,0 +1,3 @@
+Hola me llamo Axel, estoy practicando en la clase de Git y Github en Platzi
+Tengo 35 años y soy de Santiago de Chile.
+Le gusta mucho jugar al tenis. Su idolo es Fernando Gonzalez.
